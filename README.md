@@ -25,7 +25,6 @@ The purpose of this repository is to:
 ## 🛠️ Technologies Used
 - JavaScript (ES6+)
 - Python 3.x
-- Node.js (if applicable)
 
 ## 📌 Notes
 - Code is written for learning purposes and may be improved over time.
